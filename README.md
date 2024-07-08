@@ -1,2 +1,2 @@
 # Practice-Demo
-Author - Harshini
+Author - Harshini Yamana
